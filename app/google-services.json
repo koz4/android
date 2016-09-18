@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "73554238371",
+    "firebase_url": "https://koz4-c8914.firebaseio.com",
+    "project_id": "koz4-c8914",
+    "storage_bucket": "koz4-c8914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73554238371:android:b20edfba67c012ee",
+        "android_client_info": {
+          "package_name": "com.koz4.koz4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73554238371-nmag2dqap59q1iosb5ngpb75dc7kfr0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koz4.koz4",
+            "certificate_hash": "6DBC184C50F67F6DA3656B2418C5FE6508E96D4E"
+          }
+        },
+        {
+          "client_id": "73554238371-hqkorfssg7qtgf0kkvl1jdronlu0efq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABbIs470frOM9FhNL3Ci1EywRDIFJ3qs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
